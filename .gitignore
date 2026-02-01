@@ -1,0 +1,10 @@
+# Hardware config is usually stable but regenerate aware
+result
+*.drv
+*.lock
+
+# Editor noise
+
+*~
+*.swp
+*.swo
